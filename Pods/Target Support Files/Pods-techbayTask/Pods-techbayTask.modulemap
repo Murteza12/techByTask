@@ -1,0 +1,6 @@
+framework module Pods_techbayTask {
+  umbrella header "Pods-techbayTask-umbrella.h"
+
+  export *
+  module * { export * }
+}

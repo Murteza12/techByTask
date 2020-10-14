@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (4.9.1)
+  - DateScrollPicker (1.1.0)
+  - NVActivityIndicatorView (5.0.1):
+    - NVActivityIndicatorView/Base (= 5.0.1)
+  - NVActivityIndicatorView/Base (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.1)
+  - DateScrollPicker
+  - NVActivityIndicatorView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DateScrollPicker
+    - NVActivityIndicatorView
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  DateScrollPicker: 95cbb220b28a5dd95c97018dd278c074842c7e21
+  NVActivityIndicatorView: 738e843cb8924e9e4fc3e559d0728031624bf860
+
+PODFILE CHECKSUM: 2eacb430b4f3825be46fcb0ee37b2cd1a9cf34e8
+
+COCOAPODS: 1.8.3
